@@ -1,0 +1,74 @@
+{
+  "order_id": "ORD-A7E3552F1F",
+  "status": "saved",
+  "customer": {
+    "name": "Trần Hoàng Anh",
+    "phone": "0982345678",
+    "email": "hoanganh@example.com",
+    "shipping_address": "102 Lê Văn Sỹ, Phú Nhuận, TP.HCM",
+    "tier": "standard"
+  },
+  "items": [
+    {
+      "product_id": "LT-004",
+      "name": "Lenovo ThinkPad E14 Gen 6",
+      "sku": "LEN-E14-G6",
+      "category": "laptop",
+      "quantity": 1,
+      "unit_price": 18900000,
+      "line_total": 18900000,
+      "total_price": 18900000
+    },
+    {
+      "product_id": "MN-001",
+      "name": "Dell UltraSharp U2724D",
+      "sku": "DEL-U2724D",
+      "category": "monitor",
+      "quantity": 1,
+      "unit_price": 8990000,
+      "line_total": 8990000,
+      "total_price": 8990000
+    },
+    {
+      "product_id": "KB-002",
+      "name": "Logitech MX Keys S",
+      "sku": "LOG-MXKEYSS",
+      "category": "keyboard",
+      "quantity": 1,
+      "unit_price": 2790000,
+      "line_total": 2790000,
+      "total_price": 2790000
+    },
+    {
+      "product_id": "DK-001",
+      "name": "Anker 563 USB-C Dock",
+      "sku": "ANK-563-DOCK",
+      "category": "dock",
+      "quantity": 1,
+      "unit_price": 4990000,
+      "line_total": 4990000,
+      "total_price": 4990000
+    }
+  ],
+  "totals": {
+    "subtotal": 35670000,
+    "discount_rate": 0.1,
+    "discount_amount": 3567000,
+    "final_total": 32103000
+  },
+  "pricing": {
+    "subtotal": 35670000,
+    "discount_amount": 3567000,
+    "final_total": 32103000
+  },
+  "discount": {
+    "rate": 0.1,
+    "code": "CAMP-013",
+    "campaign_code": "CAMP-013"
+  },
+  "campaign_code": "CAMP-013",
+  "notes": "",
+  "save_path": "D:\\VScode\\VinuniDay1\\Day04_\\artifacts\\orders\\ORD-A7E3552F1F.json",
+  "source": "agent_submission",
+  "created_at": "2026-06-01"
+}

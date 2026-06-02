@@ -1,0 +1,49 @@
+{
+  "order_id": "ORD-558F7461",
+  "customer": {
+    "name": "Phạm Thu Trang",
+    "phone": "0904567812",
+    "email": "thutrang.ops@example.com",
+    "shipping_address": "Tầng 8, 201 Võ Văn Tần, Quận 3, TP.HCM",
+    "tier": "standard"
+  },
+  "items": [
+    {
+      "product_id": "LT-003",
+      "name": "Dell Inspiron 14",
+      "quantity": 1,
+      "unit_price": 14500000,
+      "total_price": 14500000
+    },
+    {
+      "product_id": "MN-003",
+      "name": "Xiaomi A24i",
+      "quantity": 2,
+      "unit_price": 2490000,
+      "total_price": 4980000
+    },
+    {
+      "product_id": "WC-001",
+      "name": "Logitech Brio 500",
+      "quantity": 1,
+      "unit_price": 2890000,
+      "total_price": 2890000
+    },
+    {
+      "product_id": "KB-001",
+      "name": "Keychron K2 Max",
+      "quantity": 1,
+      "unit_price": 2490000,
+      "total_price": 2490000
+    }
+  ],
+  "totals": {
+    "subtotal": 24860000,
+    "discount_rate": 0.2,
+    "discount_amount": 4972000,
+    "final_total": 19888000
+  },
+  "campaign_code": "CAMP-438",
+  "notes": "",
+  "created_at": "2026-06-01"
+}

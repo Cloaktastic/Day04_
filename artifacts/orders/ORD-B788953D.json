@@ -1,0 +1,49 @@
+{
+  "order_id": "ORD-B788953D",
+  "customer": {
+    "name": "Lê Minh Khôi",
+    "phone": "0911222333",
+    "email": "leminhkhoi@example.com",
+    "shipping_address": "45 Trần Phú, Hải Châu, Đà Nẵng",
+    "tier": "standard"
+  },
+  "items": [
+    {
+      "product_id": "LT-002",
+      "name": "MacBook Air M3 13",
+      "quantity": 1,
+      "unit_price": 28900000,
+      "total_price": 28900000
+    },
+    {
+      "product_id": "DK-001",
+      "name": "Anker 563 USB-C Dock",
+      "quantity": 1,
+      "unit_price": 4990000,
+      "total_price": 4990000
+    },
+    {
+      "product_id": "SP-001",
+      "name": "Samsung T7 Shield 2TB",
+      "quantity": 1,
+      "unit_price": 4190000,
+      "total_price": 4190000
+    },
+    {
+      "product_id": "ST-001",
+      "name": "Rain Design mStand",
+      "quantity": 1,
+      "unit_price": 1290000,
+      "total_price": 1290000
+    }
+  ],
+  "totals": {
+    "subtotal": 39370000,
+    "discount_rate": 0.1,
+    "discount_amount": 3937000,
+    "final_total": 35433000
+  },
+  "campaign_code": "CAMP-241",
+  "notes": "",
+  "created_at": "2026-06-01"
+}

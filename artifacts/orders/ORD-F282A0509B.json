@@ -1,0 +1,74 @@
+{
+  "order_id": "ORD-F282A0509B",
+  "status": "saved",
+  "customer": {
+    "name": "Quốc Việt",
+    "phone": "0988112233",
+    "email": "quocviet@example.com",
+    "shipping_address": "12 Pasteur, Hải Châu, Đà Nẵng",
+    "tier": "standard"
+  },
+  "items": [
+    {
+      "product_id": "LT-002",
+      "name": "MacBook Air M3 13",
+      "sku": "APL-MBA-M3-13",
+      "category": "laptop",
+      "quantity": 1,
+      "unit_price": 28900000,
+      "line_total": 28900000,
+      "total_price": 28900000
+    },
+    {
+      "product_id": "HD-001",
+      "name": "Sony WH-1000XM5",
+      "sku": "SNY-WH1000XM5",
+      "category": "headphone",
+      "quantity": 1,
+      "unit_price": 7990000,
+      "line_total": 7990000,
+      "total_price": 7990000
+    },
+    {
+      "product_id": "SP-001",
+      "name": "Samsung T7 Shield 2TB",
+      "sku": "SAM-T7SHIELD-2TB",
+      "category": "storage",
+      "quantity": 1,
+      "unit_price": 4190000,
+      "line_total": 4190000,
+      "total_price": 4190000
+    },
+    {
+      "product_id": "ST-001",
+      "name": "Rain Design mStand",
+      "sku": "RDS-MSTAND",
+      "category": "stand",
+      "quantity": 1,
+      "unit_price": 1290000,
+      "line_total": 1290000,
+      "total_price": 1290000
+    }
+  ],
+  "totals": {
+    "subtotal": 42370000,
+    "discount_rate": 0.1,
+    "discount_amount": 4237000,
+    "final_total": 38133000
+  },
+  "pricing": {
+    "subtotal": 42370000,
+    "discount_amount": 4237000,
+    "final_total": 38133000
+  },
+  "discount": {
+    "rate": 0.1,
+    "code": "CAMP-057",
+    "campaign_code": "CAMP-057"
+  },
+  "campaign_code": "CAMP-057",
+  "notes": "",
+  "save_path": "D:\\VScode\\VinuniDay1\\Day04_\\artifacts\\orders\\ORD-F282A0509B.json",
+  "source": "agent_submission",
+  "created_at": "2026-06-01"
+}
